@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-### <div align="center">I'm Burak, a full-time full-stack Java developer 👨‍💻 blogger since 2010 🚀</div>  
+### <div align="center">I'm Burak, a full-time full-stack Java developer 👨‍💻 blogger since 2010 🚀 I'm writing Java and Java Tech Lessons</div>  
   
 
-- 🔭 I’m currently working on Java & Spring Framework &   
+- 🔭 I’m currently working on Java & Spring Framework(Boot,Data,Cloud,Security,Rest)   
   
 
 - 🌱 I’m currently learning React.js and Spring Cloud  
@@ -60,6 +60,9 @@
 
 ## Connect with me  
 <div align="center">
+  <a href="https://github.com/brkse" target="_blank">
+<img src=https://img.shields.io/badge/blog.burakkutbay.com-%2324298e.svg?&style=for-the-badge&logo=wordpress&logoColor=white alt=burakkutbay.com style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/brkse" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
