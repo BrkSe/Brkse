@@ -88,10 +88,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Redis Nedir?](https://blog.burakkutbay.com/redis-nedir.html/)
 - [“SonarQube requires Java 11+ to run” Hatası Çözümü](https://blog.burakkutbay.com/sonarqube-requires-java-11-to-run-hatasi-cozumu.html/)
 - [Spring Cloud Dersleri : Spring Boot Projesini Google Cloud SQL Mysql Bağlantısı Kurmak](https://blog.burakkutbay.com/spring-cloud-dersleri-spring-boot-projesini-google-cloud-sql-mysql-baglantisi-kurmak.html/)
 - [PostgreSQL Veritabanı Tablosuna EXCEL / CSV Dosyadan Veri Eklemek](https://blog.burakkutbay.com/postgresql-veritabani-tablosuna-excel-csv-dosyadan-veri-eklemek.html/)
-- [Spring Cloud Dersleri : Spring Boot Projesini  Google Cloud App Engine Deploy Etmek](https://blog.burakkutbay.com/spring-cloud-dersleri-spring-boot-projesini-google-cloud-app-engine-deploy-etmek.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
