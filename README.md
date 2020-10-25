@@ -88,10 +88,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring boot error:Inferred type ‘S’ for type parameter ‘S’ is not within its bound; should extend Hatası Çözümü](https://blog.burakkutbay.com/spring-boot-errorinferred-type-s-for-type-parameter-s-is-not-within-its-bound-should-extend-hatasi-cozumu.html/)
 - [Redis Nedir?](https://blog.burakkutbay.com/redis-nedir.html/)
 - [“SonarQube requires Java 11+ to run” Hatası Çözümü](https://blog.burakkutbay.com/sonarqube-requires-java-11-to-run-hatasi-cozumu.html/)
 - [Spring Cloud Dersleri : Spring Boot Projesini Google Cloud SQL Mysql Bağlantısı Kurmak](https://blog.burakkutbay.com/spring-cloud-dersleri-spring-boot-projesini-google-cloud-sql-mysql-baglantisi-kurmak.html/)
-- [PostgreSQL Veritabanı Tablosuna EXCEL / CSV Dosyadan Veri Eklemek](https://blog.burakkutbay.com/postgresql-veritabani-tablosuna-excel-csv-dosyadan-veri-eklemek.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
