@@ -88,10 +88,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Dersleri Spring Logging Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-dersleri-spring-logging-uygulama-ornegi.html/)
 - [Spring Boot ile GraphQL  Kullanmak Örnek Uygulama](https://blog.burakkutbay.com/spring-boot-ile-graphql-kullanmak-ornek-uygulama.html/)
 - [Spring Data Nedir?](https://blog.burakkutbay.com/spring-data-nedir.html/)
 - [Spring boot error:Inferred type ‘S’ for type parameter ‘S’ is not within its bound; should extend Hatası Çözümü](https://blog.burakkutbay.com/spring-boot-errorinferred-type-s-for-type-parameter-s-is-not-within-its-bound-should-extend-hatasi-cozumu.html/)
-- [Redis Nedir?](https://blog.burakkutbay.com/redis-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
