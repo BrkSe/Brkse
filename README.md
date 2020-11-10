@@ -88,10 +88,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apache Solr Nedir?](https://blog.burakkutbay.com/apache-solr-nedir.html/)
 - [Spring Boot Uygulamasını Github kullanarak Heroku’ya Deploy Etmek](https://blog.burakkutbay.com/spring-boot-uygulamasini-github-kullanarak-herokuya-deploy-etmek.html/)
 - [Spring Boot Dersleri Pagination Uygulama İşlemleri](https://blog.burakkutbay.com/spring-boot-dersleri-pagination-uygulama-islemleri.html/)
 - [Spring Boot Dersleri Spring Logging Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-dersleri-spring-logging-uygulama-ornegi.html/)
-- [Spring Boot ile GraphQL  Kullanmak Örnek Uygulama](https://blog.burakkutbay.com/spring-boot-ile-graphql-kullanmak-ornek-uygulama.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
