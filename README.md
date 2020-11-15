@@ -88,10 +88,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java 9 Dersleri : Interface içerisinde Private Method Kullanmak](https://blog.burakkutbay.com/java-9-dersleri-interface-icerisinde-private-method-kullanmak.html/)
 - [Spring Boot Uygulamasını Docker  Image Oluşturmak Çalıştırmak](https://blog.burakkutbay.com/spring-boot-uygulamasini-docker-image-olusturmak-calistirmak.html/)
 - [Apache Solr Nedir?](https://blog.burakkutbay.com/apache-solr-nedir.html/)
 - [Spring Boot Uygulamasını Github kullanarak Heroku’ya Deploy Etmek](https://blog.burakkutbay.com/spring-boot-uygulamasini-github-kullanarak-herokuya-deploy-etmek.html/)
-- [Spring Boot Dersleri Pagination Uygulama İşlemleri](https://blog.burakkutbay.com/spring-boot-dersleri-pagination-uygulama-islemleri.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
