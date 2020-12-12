@@ -88,10 +88,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus Nedir?](https://blog.burakkutbay.com/quarkus-nedir.html/)
 - [Docker Notlarım](https://blog.burakkutbay.com/docker-notlarim.html/)
 - [Intellij IDEA Inotify Watches Limit Hatası Çözümü](https://blog.burakkutbay.com/intellij-idea-inotify-watches-limit-hatasi-cozumu.html/)
 - [Spring Boot CORS CrossOrigin Kullanım Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-cors-crossorigin-kullanim-uygulama-ornegi.html/)
-- [Java 9 Dersleri : Interface içerisinde Private Method Kullanmak](https://blog.burakkutbay.com/java-9-dersleri-interface-icerisinde-private-method-kullanmak.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
