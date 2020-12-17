@@ -81,10 +81,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Linux TTY Konsolundan Çıkmak](https://blog.burakkutbay.com/linux-tty-konsolundan-cikmak.html/)
 - [Quarkus’a Giriş Merhaba Dünya Uygulaması](https://blog.burakkutbay.com/quarkusa-giris-merhaba-dunya-uygulamasi.html/)
 - [Quarkus Nedir?](https://blog.burakkutbay.com/quarkus-nedir.html/)
 - [Docker Notlarım](https://blog.burakkutbay.com/docker-notlarim.html/)
-- [Intellij IDEA Inotify Watches Limit Hatası Çözümü](https://blog.burakkutbay.com/intellij-idea-inotify-watches-limit-hatasi-cozumu.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
