@@ -81,10 +81,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Dersleri i18n Uygulama Yerelleştirme](https://blog.burakkutbay.com/spring-boot-dersleri-i18n-uygulama-yerellestirme.html/)
 - [Linux TTY Konsolundan Çıkmak](https://blog.burakkutbay.com/linux-tty-konsolundan-cikmak.html/)
 - [Quarkus’a Giriş Merhaba Dünya Uygulaması](https://blog.burakkutbay.com/quarkusa-giris-merhaba-dunya-uygulamasi.html/)
 - [Quarkus Nedir?](https://blog.burakkutbay.com/quarkus-nedir.html/)
-- [Docker Notlarım](https://blog.burakkutbay.com/docker-notlarim.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
