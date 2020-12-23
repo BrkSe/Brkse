@@ -81,10 +81,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus Dersleri](https://blog.burakkutbay.com/quarkus-dersleri-uygulama-ornekleri.html/)
 - [Spring Boot ile Apache Kafka Uygulaması](https://blog.burakkutbay.com/spring-boot-ile-apache-kafka-uygulamasi.html/)
 - [Spring Boot Dersleri i18n Uygulama Yerelleştirme](https://blog.burakkutbay.com/spring-boot-dersleri-i18n-uygulama-yerellestirme.html/)
 - [Linux TTY Konsolundan Çıkmak](https://blog.burakkutbay.com/linux-tty-konsolundan-cikmak.html/)
-- [Quarkus’a Giriş Merhaba Dünya Uygulaması](https://blog.burakkutbay.com/quarkusa-giris-merhaba-dunya-uygulamasi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
