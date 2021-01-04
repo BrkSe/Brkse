@@ -81,10 +81,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus Hibernate Panache Nedir? Uygulama Örneği](https://blog.burakkutbay.com/quarkus-hibernate-panache-nedir-uygulama-ornegi.html/)
 - [Quarkus Dersleri : Uygulama Native Derleme](https://blog.burakkutbay.com/quarkus-dersleri-native-uygulama-derlemek.html/)
 - [Quarkus Rest Api Uygulaması Yapmak](https://blog.burakkutbay.com/quarkus-rest-api-uygulamasi-yapmak.html/)
 - [Quarkus Dersleri](https://blog.burakkutbay.com/quarkus-dersleri-uygulama-ornekleri.html/)
-- [Spring Boot ile Apache Kafka Uygulaması](https://blog.burakkutbay.com/spring-boot-ile-apache-kafka-uygulamasi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
