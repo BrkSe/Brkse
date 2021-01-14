@@ -81,10 +81,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus @Bean Scope Çeşitleri](https://blog.burakkutbay.com/quarkus-bean-scope-cesitleri.html/)
 - [Quarkus Projesini Dockerize Etmek Docker İÇerisinde Çalıştırmak](https://blog.burakkutbay.com/quarkus-projesini-dockerize-etmek-docker-icerisinde-calistirmak.html/)
 - [Quarkus Dependency Injection](https://blog.burakkutbay.com/quarkus-dependency-injection.html/)
 - [Quarkus Hibernate Panache Nedir? Uygulama Örneği](https://blog.burakkutbay.com/quarkus-hibernate-panache-nedir-uygulama-ornegi.html/)
-- [Quarkus Dersleri : Uygulama Native Derleme](https://blog.burakkutbay.com/quarkus-dersleri-native-uygulama-derlemek.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
