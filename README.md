@@ -79,10 +79,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Debezium Kafka Mysql CDC Uygulama Örneği](https://blog.burakkutbay.com/debezium-kafka-mysql-cdc-uygulama-ornegi.html/)
+- [Debezium Nedir Mimarisi ve Apache Kafka Connector](https://blog.burakkutbay.com/debezium-nedir-mimarisi-ve-apache-kafka-connector.html/)
 - [Quarkus Projemizde Spring Framework Kullanmak?](https://blog.burakkutbay.com/quarkus-projemizde-spring-framework-kullanmak.html/)
 - [Quarkus @Bean Scope Çeşitleri](https://blog.burakkutbay.com/quarkus-bean-scope-cesitleri.html/)
-- [Quarkus Projesini Dockerize Etmek Docker İÇerisinde Çalıştırmak](https://blog.burakkutbay.com/quarkus-projesini-dockerize-etmek-docker-icerisinde-calistirmak.html/)
-- [Quarkus Dependency Injection](https://blog.burakkutbay.com/quarkus-dependency-injection.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
