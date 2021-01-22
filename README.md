@@ -79,10 +79,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus Uygulamasına HTTPS / SSL Eklemek](https://blog.burakkutbay.com/quarkus-uygulamasina-https-ssl-eklemek.html/)
 - [Debezium Kafka Mysql CDC Uygulama Örneği](https://blog.burakkutbay.com/debezium-kafka-mysql-cdc-uygulama-ornegi.html/)
 - [Debezium Nedir Mimarisi ve Apache Kafka Connector](https://blog.burakkutbay.com/debezium-nedir-mimarisi-ve-apache-kafka-connector.html/)
 - [Quarkus Projemizde Spring Framework Kullanmak?](https://blog.burakkutbay.com/quarkus-projemizde-spring-framework-kullanmak.html/)
-- [Quarkus @Bean Scope Çeşitleri](https://blog.burakkutbay.com/quarkus-bean-scope-cesitleri.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
