@@ -80,9 +80,9 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Eclipse MicroProfile Fault Tolerance Nedir?](https://blog.burakkutbay.com/eclipse-microprofile-fault-tolerance-nedir.html/)
+- [Quarkus Projelerinde Fault Tolerance Kullanmak](https://blog.burakkutbay.com/quarkus-projelerinde-fault-tolerance-kullanmak.html/)
 - [git Chmod Değişikliklerini Engellemek](https://blog.burakkutbay.com/git-chmod-degisikliklerini-engellemek.html/)
 - [Quarkus Uygulaması Başlatma ve Kapanma Döngüsünü Yakalamak](https://blog.burakkutbay.com/quarkus-uygulamasi-baslatma-ve-kapanma-dongusunu-yakalamak.html/)
-- [Quarkus Uygulamasına HTTPS / SSL Eklemek](https://blog.burakkutbay.com/quarkus-uygulamasina-https-ssl-eklemek.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
