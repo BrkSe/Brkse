@@ -79,10 +79,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java ClassLoader Nedir?](https://blog.burakkutbay.com/java-classloader-nedir.html/)
 - [Quarkus Custom Property Kullanmak](https://blog.burakkutbay.com/quarkus-custom-property-kullanmak.html/)
 - [nano Editör Ayarlarım](https://blog.burakkutbay.com/nano-editor-ayarlarim.html/)
 - [Quarkus Projelerinde Fault Tolerance Kullanmak](https://blog.burakkutbay.com/quarkus-projelerinde-fault-tolerance-kullanmak.html/)
-- [Eclipse MicroProfile Fault Tolerance Nedir?](https://blog.burakkutbay.com/eclipse-microprofile-fault-tolerance-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
