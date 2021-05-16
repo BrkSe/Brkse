@@ -3,10 +3,10 @@
 ### <div align="center">I'm Burak, a full-time full-stack Java developer 👨‍💻 blogger since 2010 🚀 writing Java and Java Tech Lessons</div>  
   
 
-- 🔭 I’m currently working on Java & Spring Framework(Boot,Data,Cloud,Security,Rest) and Quarkus Framework 
+- 🔭 I’m currently working on Java & Spring Framework(Boot,Data,Cloud,Security,Rest) & Quarkus Framework & Google Cloud & AWS 
   
 
-- 🌱 I’m currently learning React.js and Spring Cloud  
+- 🌱 I’m currently learning React.js
   
 
 - ❓ Ask me about anything related to Java  and related technologies  
