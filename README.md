@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Quarkus Nesnelerin Yaşam Döngüsü](https://blog.burakkutbay.com/quarkus-nesnelerin-yasam-dongusu.html/)
 - [Spring Native Nedir?](https://blog.burakkutbay.com/spring-native-nedir.html/)
 - [Java ClassLoader Nedir?](https://blog.burakkutbay.com/java-classloader-nedir.html/)
 - [Quarkus Custom Property Kullanmak](https://blog.burakkutbay.com/quarkus-custom-property-kullanmak.html/)
-- [nano Editör Ayarlarım](https://blog.burakkutbay.com/nano-editor-ayarlarim.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
