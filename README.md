@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Lombok @Builder Anotasyonu Nedir? Nasıl Kullanılır?](https://blog.burakkutbay.com/lombok-builder-anotasyonu-nedir-nasil-kullanilir.html/)
 - [PostgreSQL SKIP LOCKED Özelliği Nedir?](https://blog.burakkutbay.com/postgresql-skip-locked-ozelligi-nedir.html/)
 - [Quarkus Nesnelerin Yaşam Döngüsü](https://blog.burakkutbay.com/quarkus-nesnelerin-yasam-dongusu.html/)
 - [Spring Native Nedir?](https://blog.burakkutbay.com/spring-native-nedir.html/)
-- [Java ClassLoader Nedir?](https://blog.burakkutbay.com/java-classloader-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
