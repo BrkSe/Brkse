@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud Dersleri](https://blog.burakkutbay.com/spring-cloud-dersleri.html/)
 - [Spring Native Uygulama Örneği](https://blog.burakkutbay.com/spring-native-uygulama-ornegi.html/)
 - [Spring Cloud Nedir?](https://blog.burakkutbay.com/spring-cloud-nedir.html/)
 - [Lombok @Builder Anotasyonu Nedir? Nasıl Kullanılır?](https://blog.burakkutbay.com/lombok-builder-anotasyonu-nedir-nasil-kullanilir.html/)
-- [PostgreSQL SKIP LOCKED Özelliği Nedir?](https://blog.burakkutbay.com/postgresql-skip-locked-ozelligi-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
