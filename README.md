@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud Eureka Discovery Server Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-cloud-eureka-discovery-server-nedir-uygulama-ornegi.html/)
 - [Spring Cloud Dersleri](https://blog.burakkutbay.com/spring-cloud-dersleri.html/)
 - [Spring Native Uygulama Örneği](https://blog.burakkutbay.com/spring-native-uygulama-ornegi.html/)
 - [Spring Cloud Nedir?](https://blog.burakkutbay.com/spring-cloud-nedir.html/)
-- [Lombok @Builder Anotasyonu Nedir? Nasıl Kullanılır?](https://blog.burakkutbay.com/lombok-builder-anotasyonu-nedir-nasil-kullanilir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
