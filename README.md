@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java Bean Validation Annotation Nedir?](https://blog.burakkutbay.com/java-bean-validation-annotation-nedir.html/)
 - [Richardson Maturity Model Nedir ve RMM Seviyeleri](https://blog.burakkutbay.com/richardson-maturity-model-nedir-ve-rmm-seviyeleri.html/)
 - [Spring Cloud Eureka Discovery Server Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-cloud-eureka-discovery-server-nedir-uygulama-ornegi.html/)
 - [Spring Cloud Dersleri](https://blog.burakkutbay.com/spring-cloud-dersleri.html/)
-- [Spring Native Uygulama Örneği](https://blog.burakkutbay.com/spring-native-uygulama-ornegi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
