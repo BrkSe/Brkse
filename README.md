@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Projesini Rastgele Port İle Başlatmak](https://blog.burakkutbay.com/spring-projesini-rastgele-port-ile-baslatmak.html/)
 - [Spring Boot Bean Validation Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-bean-validation-uygulama-ornegi.html/)
 - [Java Bean Validation Annotation Nedir?](https://blog.burakkutbay.com/java-bean-validation-annotation-nedir.html/)
 - [Richardson Maturity Model Nedir ve RMM Seviyeleri](https://blog.burakkutbay.com/richardson-maturity-model-nedir-ve-rmm-seviyeleri.html/)
-- [Spring Cloud Eureka Discovery Server Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-cloud-eureka-discovery-server-nedir-uygulama-ornegi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
