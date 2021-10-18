@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Jackson Kütüphanesi Nedir? Json İşleme Anotasyonları](https://blog.burakkutbay.com/jackson-kutuphanesi-nedir-json-isleme-anotasyonlari.html/)
 - [Spring Projesini Rastgele Port İle Başlatmak](https://blog.burakkutbay.com/spring-projesini-rastgele-port-ile-baslatmak.html/)
 - [Spring Boot Bean Validation Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-bean-validation-uygulama-ornegi.html/)
 - [Java Bean Validation Annotation Nedir?](https://blog.burakkutbay.com/java-bean-validation-annotation-nedir.html/)
-- [Richardson Maturity Model Nedir ve RMM Seviyeleri](https://blog.burakkutbay.com/richardson-maturity-model-nedir-ve-rmm-seviyeleri.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
