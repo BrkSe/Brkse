@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Validasyon Uygulaması](https://blog.burakkutbay.com/spring-boot-validasyon-uygulamasi.html/)
 - [Spring Boot Projelerinde Jackson Kullanımı](https://blog.burakkutbay.com/spring-boot-projelerinde-jackson-kullanimi.html/)
 - [Jackson Kütüphanesi Nedir? Json İşleme Anotasyonları](https://blog.burakkutbay.com/jackson-kutuphanesi-nedir-json-isleme-anotasyonlari.html/)
 - [Spring Projesini Rastgele Port İle Başlatmak](https://blog.burakkutbay.com/spring-projesini-rastgele-port-ile-baslatmak.html/)
-- [Spring Boot Bean Validation Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-bean-validation-uygulama-ornegi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
