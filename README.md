@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Docker ile RabbitMQ  Kurulumu](https://blog.burakkutbay.com/docker-ile-rabbitmq-kurulumu.html/)
 - [RabbitMQ Nedir? RabbitMQ Kullanımı](https://blog.burakkutbay.com/rabbitmq-nedir-rabbitmq-kullanimi.html/)
 - [Sring Boot Hata Yönetimi Custom Exception Handling @RestControllerAdvice @ExceptionHandler](https://blog.burakkutbay.com/sring-boot-hata-yonetimi-custom-exception-handling-restcontrolleradvice-exceptionhandler.html/)
 - [Spring Boot Validasyon Uygulaması](https://blog.burakkutbay.com/spring-boot-validasyon-uygulamasi.html/)
-- [Spring Boot Projelerinde Jackson Kullanımı](https://blog.burakkutbay.com/spring-boot-projelerinde-jackson-kullanimi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
