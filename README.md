@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java’da Multithreading &lpar;Thread ve Runnable&rpar; – 1](https://blog.burakkutbay.com/javada-multithreading-thread-ve-runnable-1.html/)
 - [RabbitMQ Exchange Çeşitleri Nelerdir?](https://blog.burakkutbay.com/rabbitmq-exchange-cesitleri-nelerdir.html/)
 - [Log4j Java Güvenlik Açığı Çözümü &lpar;CVE-2021-44228&rpar;](https://blog.burakkutbay.com/log4j-java-guvenlik-acigi-cozumu-cve-2021-44228.html/)
 - [Docker ile RabbitMQ  Kurulumu](https://blog.burakkutbay.com/docker-ile-rabbitmq-kurulumu.html/)
-- [RabbitMQ Nedir? RabbitMQ Kullanımı](https://blog.burakkutbay.com/rabbitmq-nedir-rabbitmq-kullanimi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
