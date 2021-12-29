@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java’da Multithreading &lpar; join Nedir&rpar; – 4](https://blog.burakkutbay.com/javada-multithreading-join-nedir-4.html/)
 - [Thread ve Process Arasındaki Farklar](https://blog.burakkutbay.com/thread-ve-process-arasindaki-farklar.html/)
 - [Java’da Multithreading &lpar; Thread Safety  synchronized intrinsic lock &rpar; – 3](https://blog.burakkutbay.com/javada-multithreading-thread-safety-synchronized-intrinsic-lock-3.html/)
 - [Java’da Multithreading &lpar; Yaşam Döngüsü ve States &rpar; – 2](https://blog.burakkutbay.com/javada-multithreading-yasam-dongusu-ve-states-2.html/)
-- [Java’da Multithreading &lpar;Thread ve Runnable&rpar; – 1](https://blog.burakkutbay.com/javada-multithreading-thread-ve-runnable-1.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
