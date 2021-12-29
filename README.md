@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java’da Multithreading &lpar; Thread Safety  synchronized intrinsic lock &rpar; – 3](https://blog.burakkutbay.com/javada-multithreading-thread-safety-synchronized-intrinsic-lock-3.html/)
 - [Java’da Multithreading &lpar; Yaşam Döngüsü ve States &rpar; – 2](https://blog.burakkutbay.com/javada-multithreading-yasam-dongusu-ve-states-2.html/)
 - [Java’da Multithreading &lpar;Thread ve Runnable&rpar; – 1](https://blog.burakkutbay.com/javada-multithreading-thread-ve-runnable-1.html/)
 - [RabbitMQ Exchange Çeşitleri Nelerdir?](https://blog.burakkutbay.com/rabbitmq-exchange-cesitleri-nelerdir.html/)
-- [Log4j Java Güvenlik Açığı Çözümü &lpar;CVE-2021-44228&rpar;](https://blog.burakkutbay.com/log4j-java-guvenlik-acigi-cozumu-cve-2021-44228.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
