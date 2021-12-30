@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Transaction, Isolation, Propagation ve RollBack](https://blog.burakkutbay.com/spring-boot-transaction-isolation-propagation-ve-rollback.html/)
 - [Java’da Multithreading Dersleri](https://blog.burakkutbay.com/javada-multithreading-dersleri.html/)
 - [Java’da Multithreading &lpar; Thread Pool, ExecutorService&rpar; – 5](https://blog.burakkutbay.com/javada-multithreading-thread-pool-executorservice-4.html/)
 - [Java’da Multithreading &lpar; join Nedir&rpar; – 4](https://blog.burakkutbay.com/javada-multithreading-join-nedir-4.html/)
-- [Thread ve Process Arasındaki Farklar](https://blog.burakkutbay.com/thread-ve-process-arasindaki-farklar.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
