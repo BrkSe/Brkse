@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Docker Ports are not available: listen tcp bind: An attempt was made to access a socket in a way forbidden by its access permissions Hatası Çözümü](https://blog.burakkutbay.com/docker-ports-are-not-available-listen-tcp-bind-an-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-its-access-permissions-hatasi-cozumu.html/)
 - [RabbitMQ Dersleri](https://blog.burakkutbay.com/rabbitmq-dersleri.html/)
 - [sshpass ile SSH Bağlantısı Yapmak](https://blog.burakkutbay.com/sshpass-ile-ssh-baglantisi-yapmak.html/)
 - [Spring Boot Transaction, Isolation, Propagation ve RollBack](https://blog.burakkutbay.com/spring-boot-transaction-isolation-propagation-ve-rollback.html/)
-- [Java’da Multithreading Dersleri](https://blog.burakkutbay.com/javada-multithreading-dersleri.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
