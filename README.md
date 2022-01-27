@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ Round Robin Nedir?](https://blog.burakkutbay.com/rabbitmq-round-robin-nedir.html/)
 - [RabbitMQ Java Consumer Uygulaması](https://blog.burakkutbay.com/rabbitmq-java-consumer-uygulamasi.html/)
 - [RabbitMQ Java Publisher Uygulaması](https://blog.burakkutbay.com/rabbitmq-java-publisher-uygulamasi.html/)
 - [Spring Boot RestTemplate Nedir ve Kullanımı](https://blog.burakkutbay.com/spring-boot-resttemplate-nedir-ve-kullanimi.html/)
-- [JsonBackReference, ve JsonManagedReference  Many to Many, Many to One İlişkisi &lpar;Infinite Recursion , StackOverflowError Hatası Çözümü&rpar;](https://blog.burakkutbay.com/jsonbackreference-ve-jsonmanagedreference-many-to-many-many-to-one-iliskisi-infinite-recursion-stackoverflowerror-hatasi-cozumu.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
