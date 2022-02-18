@@ -78,10 +78,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security In-Memory Authentication ve Authorization](https://blog.burakkutbay.com/spring-security-in-memory-authentication-ve-authorization.html/)
 - [RabbitMQ Direct Exchange Java Publisher / Consumer Uygulaması](https://blog.burakkutbay.com/rabbitmq-direct-exchange-java-publisher-consumer-uygulamasi.html/)
 - [Spring Security Mimarisi Akışı](https://blog.burakkutbay.com/spring-security-mimarisi-akisi.html/)
 - [RabbitMQ Round Robin Nedir?](https://blog.burakkutbay.com/rabbitmq-round-robin-nedir.html/)
-- [RabbitMQ Java Consumer Uygulaması](https://blog.burakkutbay.com/rabbitmq-java-consumer-uygulamasi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
