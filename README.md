@@ -6,9 +6,6 @@
 - 🔭 I’m currently working on Java & Spring Framework(Boot,Data,Cloud,Security,Rest) & Quarkus Framework & Google Cloud & AWS 
   
 
-- 🌱 I’m currently learning React.js
-  
-
 - ❓ Ask me about anything related to Java  and related technologies  
   
 
