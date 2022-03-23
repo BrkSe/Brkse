@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### <div align="center">I'm Burak, a full-time full-stack Java developer 👨‍💻 blogger since 2010 🚀 writing Java and Java Tech Lessons</div>  
+### <div align="center">I'm Burak, a full-time Senior Software Java Developer 👨‍💻 blogger since 2010 🚀 writing Java and Java Tech Lessons</div>  
   
 
 - 🔭 I’m currently working on Java & Spring Framework(Boot,Data,Cloud,Security,Rest) & Quarkus Framework & Google Cloud & AWS 
