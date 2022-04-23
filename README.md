@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java Record Nedir ve Kullanımı](https://blog.burakkutbay.com/java-record-nedir-ve-kullanimi.html/)
 - [Spring Scheduler ShedLock Kullanımı](https://blog.burakkutbay.com/spring-scheduler-shedlock-kullanimi.html/)
 - [Maven : error in opening zip file when running Hatası Çözümü](https://blog.burakkutbay.com/maven-error-in-opening-zip-file-when-running-hatasi-cozumu.html/)
 - [RabbitMQ Fanout Exchange Java Publisher / Consumer Uygulaması](https://blog.burakkutbay.com/rabbitmq-fanout-exchange-java-publisher-consumer-uygulamasi.html/)
-- [Spring Security In-Memory Authentication ve Authorization](https://blog.burakkutbay.com/spring-security-in-memory-authentication-ve-authorization.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
