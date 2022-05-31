@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Docker ile Apache Kafka Kurulumu ve Kullanımı](https://blog.burakkutbay.com/docker-ile-apache-kafka-kurulumu-ve-kullanimi.html/)
 - [#JavaDayIstanbul 2022 Notlarım](https://blog.burakkutbay.com/javadayistanbul-2022-notlarim.html/)
 - [Spring Cloud Stream Nedir? Ders #1](https://blog.burakkutbay.com/spring-cloud-stream-nedir-ders-1.html/)
 - [Spring Security Dersleri Veritabanı Yetkilendirme User Detail Kullanımı](https://blog.burakkutbay.com/spring-security-dersleri-veritabani-yetkilendirme-user-detail-kullanimi.html/)
-- [Java Record Nedir ve Kullanımı](https://blog.burakkutbay.com/java-record-nedir-ve-kullanimi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
