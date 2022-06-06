@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Kitap: Sprint: Sadece 5 Günde Büyük Sorunları Çözün Yeni Fikirleri Test Edin](https://blog.burakkutbay.com/kitap-sprint-sadece-5-gunde-buyuk-sorunlari-cozun-yeni-fikirleri-test-edin.html/)
 - [Spring Cloud OpenFeign Nedir? OpenFeign ile Servisler Arası İletişim Kurmak](https://blog.burakkutbay.com/spring-cloud-openfeign-nedir-openfeign-ile-servisler-arasi-iletisim-kurmak.html/)
 - [Docker ile Apache Kafka Kurulumu ve Kullanımı](https://blog.burakkutbay.com/docker-ile-apache-kafka-kurulumu-ve-kullanimi.html/)
 - [#JavaDayIstanbul 2022 Notlarım](https://blog.burakkutbay.com/javadayistanbul-2022-notlarim.html/)
-- [Spring Cloud Stream Nedir? Ders #1](https://blog.burakkutbay.com/spring-cloud-stream-nedir-ders-1.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
