@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot GraphQL API Uygulama Örneği #1](https://blog.burakkutbay.com/spring-boot-graphql-api-uygulama-ornegi-1.html/)
 - [Jib ile Java Projelerini Verimli ve Hızlı Dockerize Etmek](https://blog.burakkutbay.com/jib-ile-java-projelerini-verimli-ve-hizli-dockerize-etmek.html/)
 - [MapStruct Nedir? Spring Boot MapStruct Uygulama Örneği](https://blog.burakkutbay.com/mapstruct-nedir-spring-boot-mapstruct-uygulama-ornegi.html/)
 - [Kitap: Sprint: Sadece 5 Günde Büyük Sorunları Çözün Yeni Fikirleri Test Edin](https://blog.burakkutbay.com/kitap-sprint-sadece-5-gunde-buyuk-sorunlari-cozun-yeni-fikirleri-test-edin.html/)
-- [Spring Cloud OpenFeign Nedir? OpenFeign ile Servisler Arası İletişim Kurmak](https://blog.burakkutbay.com/spring-cloud-openfeign-nedir-openfeign-ile-servisler-arasi-iletisim-kurmak.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
