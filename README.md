@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud Eureka Discovery Server’a Register Olmak](https://blog.burakkutbay.com/spring-cloud-eureka-discovery-servera-register-olmak.html/)
 - [Design Patterns – Template Metot Pattern Nedir?](https://blog.burakkutbay.com/design-patterns-template-metot-pattern-nedir.html/)
 - [Spring Boot GraphQL API Uygulama Örneği #1](https://blog.burakkutbay.com/spring-boot-graphql-api-uygulama-ornegi-1.html/)
 - [Jib ile Java Projelerini Verimli ve Hızlı Dockerize Etmek](https://blog.burakkutbay.com/jib-ile-java-projelerini-verimli-ve-hizli-dockerize-etmek.html/)
-- [MapStruct Nedir? Spring Boot MapStruct Uygulama Örneği](https://blog.burakkutbay.com/mapstruct-nedir-spring-boot-mapstruct-uygulama-ornegi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
