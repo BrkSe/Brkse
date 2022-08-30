@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Command Query Responsibility Segregation &lpar;CQRS&rpar; Nedir?](https://blog.burakkutbay.com/command-query-responsibility-segregation-cqrs-nedir.html/)
 - [Spring Cloud Gateway &amp; Routing &amp; Load Balancing  İşlemleri](https://blog.burakkutbay.com/spring-cloud-gateway-routing-load-balancing-islemleri.html/)
 - [Spring Cloud Eureka Discovery Server’a Register Olmak](https://blog.burakkutbay.com/spring-cloud-eureka-discovery-servera-register-olmak.html/)
 - [Design Patterns – Template Metot Pattern Nedir?](https://blog.burakkutbay.com/design-patterns-template-metot-pattern-nedir.html/)
-- [Spring Boot GraphQL API Uygulama Örneği #1](https://blog.burakkutbay.com/spring-boot-graphql-api-uygulama-ornegi-1.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
