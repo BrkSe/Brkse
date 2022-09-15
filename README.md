@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud Config Server Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-cloud-config-server-nedir-uygulama-ornegi.html/)
 - [Axon Framework Nedir ve Kurulumu](https://blog.burakkutbay.com/axon-framework-nedir-ve-kurulumu.html/)
 - [Command Query Responsibility Segregation &lpar;CQRS&rpar; Nedir?](https://blog.burakkutbay.com/command-query-responsibility-segregation-cqrs-nedir.html/)
 - [Spring Cloud Gateway &amp; Routing &amp; Load Balancing  İşlemleri](https://blog.burakkutbay.com/spring-cloud-gateway-routing-load-balancing-islemleri.html/)
-- [Spring Cloud Eureka Discovery Server’a Register Olmak](https://blog.burakkutbay.com/spring-cloud-eureka-discovery-servera-register-olmak.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
