@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Resmo ile Github’ı Monitör Et ve Kontrol Altına Al](https://blog.burakkutbay.com/resmo-ile-githubi-monitor-et-ve-kontrol-altina-al.html/)
 - [Spring Cloud Config Server Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-cloud-config-server-nedir-uygulama-ornegi.html/)
 - [Axon Framework Nedir ve Kurulumu](https://blog.burakkutbay.com/axon-framework-nedir-ve-kurulumu.html/)
 - [Command Query Responsibility Segregation &lpar;CQRS&rpar; Nedir?](https://blog.burakkutbay.com/command-query-responsibility-segregation-cqrs-nedir.html/)
-- [Spring Cloud Gateway &amp; Routing &amp; Load Balancing  İşlemleri](https://blog.burakkutbay.com/spring-cloud-gateway-routing-load-balancing-islemleri.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
