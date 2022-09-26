@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Web Service Simple Queue Service &lpar;SQS&rpar; Nedir](https://blog.burakkutbay.com/amazon-web-service-simple-queue-service-sqs-nedir.html/)
 - [Resmo ile Github’ı Monitör Et ve Kontrol Altına Al](https://blog.burakkutbay.com/resmo-ile-githubi-monitor-et-ve-kontrol-altina-al.html/)
 - [Spring Cloud Config Server Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-cloud-config-server-nedir-uygulama-ornegi.html/)
 - [Axon Framework Nedir ve Kurulumu](https://blog.burakkutbay.com/axon-framework-nedir-ve-kurulumu.html/)
-- [Command Query Responsibility Segregation &lpar;CQRS&rpar; Nedir?](https://blog.burakkutbay.com/command-query-responsibility-segregation-cqrs-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
