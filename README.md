@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot Projelerinde Tomcat Yerine Jetty Kullanmak](https://blog.burakkutbay.com/spring-boot-projelerinde-tomcat-yerine-jetty-kullanmak.html/)
 - [ACID Prensibleri Nedir](https://blog.burakkutbay.com/acid-prensibleri-nedir.html/)
 - [Spring Boot Cloud AWS SQS Kullanımı](https://blog.burakkutbay.com/spring-boot-cloud-aws-sqs-kullanimi.html/)
 - [Amazon Web Service Simple Queue Service &lpar;SQS&rpar; Nedir](https://blog.burakkutbay.com/amazon-web-service-simple-queue-service-sqs-nedir.html/)
-- [Resmo ile Github’ı Monitör Et ve Kontrol Altına Al](https://blog.burakkutbay.com/resmo-ile-githubi-monitor-et-ve-kontrol-altina-al.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
