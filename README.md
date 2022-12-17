@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [just: Spring Boot Geliştiricileri İçin Komut Aracı](https://blog.burakkutbay.com/just-spring-boot-gelistiricileri-icin-komut-araci.html/)
 - [Java Functional Interface Nedir?](https://blog.burakkutbay.com/java-functional-interface-nedir.html/)
 - [Spring Boot Projelerinde Tomcat Yerine Jetty Kullanmak](https://blog.burakkutbay.com/spring-boot-projelerinde-tomcat-yerine-jetty-kullanmak.html/)
 - [ACID Prensibleri Nedir](https://blog.burakkutbay.com/acid-prensibleri-nedir.html/)
-- [Spring Boot Cloud AWS SQS Kullanımı](https://blog.burakkutbay.com/spring-boot-cloud-aws-sqs-kullanimi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
