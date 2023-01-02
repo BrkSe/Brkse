@@ -73,10 +73,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Cloud @Retryable Anotasyonu Nedir Kullanım Örneği](https://blog.burakkutbay.com/spring-cloud-retryable-anotasyonu-nedir-kullanim-ornegi.html/)
 - [Blogumun 2022 Özeti ve 2023 Hedefleri](https://blog.burakkutbay.com/blogumun-2022-ozeti-ve-2023-hedefleri.html/)
 - [Maven Mı? Gradle Mı? Arasındaki Farklar](https://blog.burakkutbay.com/maven-mi-gradle-mi-arasindaki-farklar.html/)
 - [just: Spring Boot Geliştiricileri İçin Komut Aracı](https://blog.burakkutbay.com/just-spring-boot-gelistiricileri-icin-komut-araci.html/)
-- [Java Functional Interface Nedir?](https://blog.burakkutbay.com/java-functional-interface-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
