@@ -66,10 +66,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Data MongoDB Dersleri](https://blog.burakkutbay.com/spring-data-mongodb-dersleri.html/)
+- [MongoDB &amp; MongoDB Express Docker Compose Kurulumu](https://blog.burakkutbay.com/mongodb-mongodb-express-docker-compose-kurulumu.html/)
 - [Spring Boot Data Redis Nedir? Distributed Cache Kullanımı](https://blog.burakkutbay.com/spring-boot-data-redis-nedir-distributed-cache-kullanimi.html/)
 - [MongoDB Nedir?](https://blog.burakkutbay.com/mongodb-nedir.html/)
-- [Spring Cloud @Retryable Anotasyonu Nedir Kullanım Örneği](https://blog.burakkutbay.com/spring-cloud-retryable-anotasyonu-nedir-kullanim-ornegi.html/)
-- [Blogumun 2022 Özeti ve 2023 Hedefleri](https://blog.burakkutbay.com/blogumun-2022-ozeti-ve-2023-hedefleri.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
