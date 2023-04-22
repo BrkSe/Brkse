@@ -66,10 +66,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot  Interceptor Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-interceptor-nedir-uygulama-ornegi.html/)
 - [Spring Data MongoDB Dersleri](https://blog.burakkutbay.com/spring-data-mongodb-dersleri.html/)
 - [MongoDB &amp; MongoDB Express Docker Compose Kurulumu](https://blog.burakkutbay.com/mongodb-mongodb-express-docker-compose-kurulumu.html/)
 - [Spring Boot Data Redis Nedir? Distributed Cache Kullanımı](https://blog.burakkutbay.com/spring-boot-data-redis-nedir-distributed-cache-kullanimi.html/)
-- [MongoDB Nedir?](https://blog.burakkutbay.com/mongodb-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
