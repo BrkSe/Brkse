@@ -66,10 +66,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Amdahl Yasası Nedir? Thread Performans Sınırlaması](https://blog.burakkutbay.com/amdahl-yasasi-nedir-thread-performans-sinirlamasi.html/)
 - [Spring Boot Content Negotiation XML – JSON Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-content-negotiation-xml-json-uygulama-ornegi.html/)
 - [Spring Boot  Interceptor Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-interceptor-nedir-uygulama-ornegi.html/)
 - [Spring Data MongoDB Dersleri](https://blog.burakkutbay.com/spring-data-mongodb-dersleri.html/)
-- [MongoDB &amp; MongoDB Express Docker Compose Kurulumu](https://blog.burakkutbay.com/mongodb-mongodb-express-docker-compose-kurulumu.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
