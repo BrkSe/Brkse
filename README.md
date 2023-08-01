@@ -66,10 +66,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Spring Boot @ConditionalOnExpression Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-conditionalonexpression-nedir-uygulama-ornegi.html/)
 - [MacOS Control+Space Çalışmama Sorunu &lpar;Intellij IDEA, VsCode..&rpar;](https://blog.burakkutbay.com/macos-controlspace-calismama-sorunu-intellij-idea-vscode.html/)
 - [Java 21 – String Templates Nedir? &lpar;JEP 430&rpar;](https://blog.burakkutbay.com/java-21-string-templates-nedir-jep-430.html/)
 - [Spring Boot 3.0 ile Gelen Problem Details Kullanımı ve Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-3-0-ile-gelen-problem-details-kullanimi-ve-uygulama-ornegi.html/)
-- [Amdahl Yasası Nedir? Thread Performans Sınırlaması](https://blog.burakkutbay.com/amdahl-yasasi-nedir-thread-performans-sinirlamasi.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
