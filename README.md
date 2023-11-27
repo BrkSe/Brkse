@@ -66,10 +66,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [İlham Veren İçerikler](https://blog.burakkutbay.com/ilham-veren-icerikler.html/)
 - [Java 21 – Record Patterns Nedir? &lpar;JEP 440&rpar;](https://blog.burakkutbay.com/java-21-record-patterns-nedir-jep-440.html/)
 - [Spring Boot @ConditionalOnExpression Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-conditionalonexpression-nedir-uygulama-ornegi.html/)
 - [MacOS Control+Space Çalışmama Sorunu &lpar;Intellij IDEA, VsCode..&rpar;](https://blog.burakkutbay.com/macos-controlspace-calismama-sorunu-intellij-idea-vscode.html/)
-- [Java 21 – String Templates Nedir? &lpar;JEP 430&rpar;](https://blog.burakkutbay.com/java-21-string-templates-nedir-jep-430.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
