@@ -66,10 +66,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Spring Boot Application with Prometheus and Grafana](https://blog.burakkutbay.com/monitoring-spring-boot-application-with-prometheus-and-grafana.html/)
 - [İlham Veren İçerikler](https://blog.burakkutbay.com/ilham-veren-icerikler.html/)
 - [Java 21 – Record Patterns Nedir? &lpar;JEP 440&rpar;](https://blog.burakkutbay.com/java-21-record-patterns-nedir-jep-440.html/)
 - [Spring Boot @ConditionalOnExpression Nedir? Uygulama Örneği](https://blog.burakkutbay.com/spring-boot-conditionalonexpression-nedir-uygulama-ornegi.html/)
-- [MacOS Control+Space Çalışmama Sorunu &lpar;Intellij IDEA, VsCode..&rpar;](https://blog.burakkutbay.com/macos-controlspace-calismama-sorunu-intellij-idea-vscode.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
