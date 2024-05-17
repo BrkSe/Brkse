@@ -66,10 +66,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Git LFS ile Büyük Boyutlu Dosyaları Yükleme Nasıl Yapılır?](https://blog.burakkutbay.com/git-lfs-ile-buyuk-boyutlu-dosyalari-yukleme-nasil-yapilir.html/)
 - [TestContainers ile Spring Boot &amp; MongoDB  Test İşlemleri](https://blog.burakkutbay.com/testcontainers-ile-spring-boot-mongodb-test-islemleri.html/)
 - [Java 21 – Virtual Threads Nedir? Virtual Threads Uygulama Örneği](https://blog.burakkutbay.com/java-21-virtual-threads-nedir-virtual-threads-uygulama-ornegi.html/)
 - [Monitoring Spring Boot Application with Prometheus and Grafana](https://blog.burakkutbay.com/monitoring-spring-boot-application-with-prometheus-and-grafana.html/)
-- [İlham Veren İçerikler](https://blog.burakkutbay.com/ilham-veren-icerikler.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
