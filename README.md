@@ -16,10 +16,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java 24 Stream Gatherers Nedir?](https://blog.burakkutbay.com/java-24-stream-gatherers-interface-nedir-jep-485.html/)
 - [Java CountDownLatch Nedir?](https://blog.burakkutbay.com/java-countdownlatch-nedir.html/)
 - [Spring Cloud Bus ile Runtime Konfigürasyon Yönetimi](https://blog.burakkutbay.com/spring-cloud-bus-ile-runtime-konfigurasyon-yonetimi.html/)
 - [Java’da Referans Türleri &lpar;Strong,  Phantom, Soft, Weak Reference &rpar;](https://blog.burakkutbay.com/javada-referans-turleri-strong-phantom-soft-weak-reference.html/)
-- [Chaos Monkey Nedir? #1 Uygulamanızın Sınırlarını Test Edin](https://blog.burakkutbay.com/chaos-monkey-nedir-1-uygulamanizin-sinirlarini-test-edin.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
