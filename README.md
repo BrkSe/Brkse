@@ -16,10 +16,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Java 25 : Stable Values API Nedir? JEP 502](https://blog.burakkutbay.com/java-25-stable-values-api-nedir-jep-502.html/)
 - [Java 24 Stream Gatherers Nedir?](https://blog.burakkutbay.com/java-24-stream-gatherers-interface-nedir-jep-485.html/)
 - [Java CountDownLatch Nedir?](https://blog.burakkutbay.com/java-countdownlatch-nedir.html/)
 - [Spring Cloud Bus ile Runtime Konfigürasyon Yönetimi](https://blog.burakkutbay.com/spring-cloud-bus-ile-runtime-konfigurasyon-yonetimi.html/)
-- [Java’da Referans Türleri &lpar;Strong,  Phantom, Soft, Weak Reference &rpar;](https://blog.burakkutbay.com/javada-referans-turleri-strong-phantom-soft-weak-reference.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
