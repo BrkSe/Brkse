@@ -16,10 +16,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [HTTP Service Client Nedir – Spring Boot 4.0](https://blog.burakkutbay.com/http-service-client-nedir-spring-boot-4-0.html/)
 - [API Versiyonlama – Spring Framework 7](https://blog.burakkutbay.com/api-versiyonlama-spring-framework-7.html/)
 - [Java 25 : Stable Values API Nedir? JEP 502](https://blog.burakkutbay.com/java-25-stable-values-api-nedir-jep-502.html/)
 - [Java 24 Stream Gatherers Nedir?](https://blog.burakkutbay.com/java-24-stream-gatherers-interface-nedir-jep-485.html/)
-- [Java CountDownLatch Nedir?](https://blog.burakkutbay.com/java-countdownlatch-nedir.html/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
